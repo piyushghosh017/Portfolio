@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2599ce78.css",
-    "main.js": "/portfolio/static/js/main.9b385136.js",
-    "static/media/imbd.png": "/portfolio/static/media/imbd.098678253a46153cedde.png",
-    "static/media/fakestoreapi.png": "/portfolio/static/media/fakestoreapi.8d86b15b921c390071bb.png",
+    "main.css": "/portfolio/static/css/main.c5317fca.css",
+    "main.js": "/portfolio/static/js/main.40debe3f.js",
+    "static/media/heart.png": "/portfolio/static/media/heart.010b5a1ef874f9caeb04.png",
+    "static/media/covid.png": "/portfolio/static/media/covid.dffc2678c0f2142c8650.png",
     "static/media/blog.png": "/portfolio/static/media/blog.c580604838979bb70cc3.png",
     "static/media/olympic.png": "/portfolio/static/media/olympic.9cc7907f213230047ffc.png",
     "static/media/cryptoverse.png": "/portfolio/static/media/cryptoverse.35ee6307d85100c6c2c6.png",
@@ -15,11 +15,11 @@
     "static/media/phone.png": "/portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
     "static/media/moon.png": "/portfolio/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/portfolio/index.html",
-    "main.2599ce78.css.map": "/portfolio/static/css/main.2599ce78.css.map",
-    "main.9b385136.js.map": "/portfolio/static/js/main.9b385136.js.map"
+    "main.c5317fca.css.map": "/portfolio/static/css/main.c5317fca.css.map",
+    "main.40debe3f.js.map": "/portfolio/static/js/main.40debe3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2599ce78.css",
-    "static/js/main.9b385136.js"
+    "static/css/main.c5317fca.css",
+    "static/js/main.40debe3f.js"
   ]
 }
