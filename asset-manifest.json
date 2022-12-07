@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2599ce78.css",
+    "main.js": "/portfolio/static/js/main.9b385136.js",
+    "static/media/imbd.png": "/portfolio/static/media/imbd.098678253a46153cedde.png",
+    "static/media/fakestoreapi.png": "/portfolio/static/media/fakestoreapi.8d86b15b921c390071bb.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.c580604838979bb70cc3.png",
+    "static/media/olympic.png": "/portfolio/static/media/olympic.9cc7907f213230047ffc.png",
+    "static/media/cryptoverse.png": "/portfolio/static/media/cryptoverse.35ee6307d85100c6c2c6.png",
+    "static/media/me.png": "/portfolio/static/media/me.c2941d15bc175f090bc7.png",
+    "static/media/chatcord.png": "/portfolio/static/media/chatcord.af734756b140eaa4aedc.png",
+    "static/media/address.png": "/portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/portfolio/index.html",
+    "main.2599ce78.css.map": "/portfolio/static/css/main.2599ce78.css.map",
+    "main.9b385136.js.map": "/portfolio/static/js/main.9b385136.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2599ce78.css",
+    "static/js/main.9b385136.js"
+  ]
+}
